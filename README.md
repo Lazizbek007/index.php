@@ -1,4 +1,0 @@
-# index.php
-<?php
-
-phpinfo();
